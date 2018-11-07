@@ -1,3 +1,3 @@
-import nav from "./nav"
+import header from "./header"
 
-nav.render("body")
+header.render("#site-container")
