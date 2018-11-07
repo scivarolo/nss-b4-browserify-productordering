@@ -1,0 +1,1 @@
+/* Builds the Product Listing and gets it ready for DOM output */
